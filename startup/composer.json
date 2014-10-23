@@ -17,7 +17,7 @@
     "autoload": {
         "classmap": [
             "src/migrations",
-            "src/commands"
+            "Idcomar/Startup/src/commands"
             
         ],
         "psr-0": {
